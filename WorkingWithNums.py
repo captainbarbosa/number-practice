@@ -21,7 +21,7 @@
 #                                                                                        #
 # input: numerical input                                                                 #
 #                                                                                        # 
-# output: average and sum of all numbers, not including last smallest number             #
+# output: average and sum of all numbers                                                 #
 ##########################################################################################
 #-----------------------------------------------------------------------------------------
 
