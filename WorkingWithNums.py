@@ -1,10 +1,5 @@
-##########################################################################################
-# CSC 280 Programming Practice #3                                                        #  
-# modifier: Nadia Barbosa                                                                #
-# filename: Nadia_assignment3.py                                                         #                                                        #
-# date last modified: 2/21/14                                                            #
 # ---------------------------------------------------------------------------------------#
-# EXAMPLE 1: score_calculatior.py                                                        #
+# PART 1                                                                                 #
 #                                                                                        #
 # action: Uses input scores from user to calculate minimum, maximum, and average.        #
 #                                                                                        #
@@ -12,7 +7,7 @@
 #                                                                                        #
 # output:   Min, max, and average of user's numbers                                      #
 #----------------------------------------------------------------------------------------#
-# EXAMPLE 2: number_organizer.py                                                         #
+# PART 2                                                                                 #
 #                                                                                        #
 # action: Takes entered floating point numbers and finds the largest and smallest values #
 #                                                                                        #
@@ -20,7 +15,7 @@
 #                                                                                        #
 # output: prints largest and smallest values of the three floating point inputs          #
 #----------------------------------------------------------------------------------------#
-# EXAMPLE 3: increasing_looper.py                                                        # 
+# PART 3                                                                                 # 
 #                                                                                        #
 # actions: takes numerical input and finds avg and sum when a smaller number is entered  # 
 #                                                                                        #
@@ -30,7 +25,7 @@
 ##########################################################################################
 #-----------------------------------------------------------------------------------------
 
-#DIALOG BOX
+#DIALOG WINDOW EXAMPLE
 #~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 """
 How many scores need to be calculated? 7
