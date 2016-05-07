@@ -1,4 +1,4 @@
-# WorkingWithNums    
+# Number Practice  
 
 This is a small python script that calculates basic statistics from an input of multiple numbers. It has three parts:    
 
